@@ -51,15 +51,15 @@ These are the open microscopes available today, but we can see that none of them
 
 ## What I've done so far.
 
-### - ...Trying out OpenFelxure Model  
+###Trying out OpenFelxure Model  
 
 ...OpenFlexure is an open 3D printable microscope, including a precise mechanical stage to move the sample and focus the optics. There are many different options for the optics, ranging from a webcam lens to a 100x, 
 
-... More :[https://github.com/rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope)
+...More :[https://github.com/rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope)
 
-... I tried to implement its model by contacting its team (I met them in GOSH meetup in China), the problem is they didn't have good documentation, that's actually huge headache when you try to do something open, only available is a git repo 
+...I tried to implement its model by contacting its team (I met them in GOSH meetup in China), the problem is they didn't have good documentation, that's actually huge headache when you try to do something open, only available is a git repo 
 
-... - #### 3D printed 
+#### 3D printed 
 ...I 3D Printed all the required part by contacting the team and by utilizing the FabLab Kochi 
 
 
