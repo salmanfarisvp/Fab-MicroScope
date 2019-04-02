@@ -4,7 +4,7 @@
 
 ## Overview
 
-The study estimates that 5 million people die every year because of poor-quality health care in low- and middle-income countries. That's significantly more than the 3.6 million people in those countries who die from not having access to care.[source](https://www.npr.org/sections/goatsandsoda/2018/09/05/644928153/what-kills-5-million-people-a-year-its-not-just-disease)
+The study estimates that 5 million people die every year because of poor-quality health care in low- and middle-income countries. That's significantly more than the 3.6 million people in those countries who die from not having access to care.  [source](https://www.npr.org/sections/goatsandsoda/2018/09/05/644928153/what-kills-5-million-people-a-year-its-not-just-disease)
 
 So we can solve almost all the problem with utilizing technology, As I mentioned earlier based on the report peoples die without getting proper medical attention, and the most of them don’t have access medical equipment to determine the disease , so they don’t know the seriousness of the disease , and eventually it will make big problems . 
 
@@ -53,11 +53,11 @@ These are the open microscopes available today, but we can see that none of them
 
 ### Trying out OpenFelxure Model  
 
-⋅⋅⋅OpenFlexure is an open 3D printable microscope, including a precise mechanical stage to move the sample and focus the optics. There are many different options for the optics, ranging from a webcam lens to a 100x, 
+OpenFlexure is an open 3D printable microscope, including a precise mechanical stage to move the sample and focus the optics. There are many different options for the optics, ranging from a webcam lens to a 100x, 
 
-⋅⋅⋅More :[https://github.com/rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope)
+More :[https://github.com/rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope)
 
-⋅⋅⋅I tried to implement its model by contacting its team (I met them in GOSH meetup in China), the problem is they didn't have good documentation, that's actually huge headache when you try to do something open, only available is a git repo 
+I tried to implement its model by contacting its team (I met them in GOSH meetup in China), the problem is they didn't have good documentation, that's actually huge headache when you try to do something open, only available is a git repo 
 
 #### 3D printed 
 I 3D Printed all the required part by contacting the team and by utilizing the FabLab Kochi 
