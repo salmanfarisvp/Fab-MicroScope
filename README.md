@@ -46,7 +46,6 @@ More : [https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope
 )
 
 
-
 These are the open microscopes available today, but we can see that none of them is easy to build and also there no open documentation available to build our own, and some of the projects are dropped by the maintainer. so I contacted the OpenFlexure team and I  was planning to build one based on that, after it’s replication I will solve it’ limitation (known issues) and adding some features or build one from scratch 
 
 ## What I've done so far.
@@ -55,7 +54,7 @@ These are the open microscopes available today, but we can see that none of them
 
 OpenFlexure is an open 3D printable microscope, including a precise mechanical stage to move the sample and focus the optics. There are many different options for the optics, ranging from a webcam lens to a 100x, 
 
-More :[https://github.com/rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope)
+More : [https://github.com/rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope)
 
 I tried to implement its model by contacting its team (I met them in GOSH meetup in China), the problem is they didn't have good documentation, that's actually huge headache when you try to do something open, only available is a git repo 
 
