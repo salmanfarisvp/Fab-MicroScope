@@ -61,4 +61,26 @@ I tried to implement its model by contacting its team (I met them in GOSH meetup
 #### 3D printed 
 I 3D Printed all the required part by contacting the team and by utilizing the FabLab Kochi 
 
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/3d_print.jpg) 
+
+
+#### Electronics 
+
+After 3D Printing the Required Parts I start work with electronics parts, including its camera and lens module. 
+The OpenFelxure is utilising the Pi Cam v2.0 by re-adjusting its stock lens, I tried to do that but that’s ended up broken Pi cam, the problem was I used Pi cam v.1.0 , and it’s not compatible to remove the lens , 
+
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/pi_cam_one.jpg) 
+
+
+### ToDo
+
+* Complete the Electronics Parts : Try to use Pi cam v2.0 instead of v1.0,  also need to try out with different lenses 
+* Implement Computer Vision : To automate the testing we can use computer vision based on the available data.
+* Design Compatible Model : The current OpenFlexure Design is not that much compatible and Sophisticated, it working based on the model bend and material. So I will design a compatible,  easy maintainable design in parallel with the of the openflexure .
+
+
+
+
+
+
 
