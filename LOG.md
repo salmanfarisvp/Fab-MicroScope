@@ -60,6 +60,10 @@ The OpenFelxure is utilising the Pi Cam v2.0 by re-adjusting its stock lens, I t
 - [x] Design Compatible Model : The current OpenFlexure Design is not that much compatible and Sophisticated, it working based on the model bend and material. So I will design a compatible,  easy maintainable design in parallel with the of the openflexure .
 
 
+### Using the Pi Cam 2.0 
+
+With the help of [Lens Adjustment Spanner](https://www.thingiverse.com/thing:1574661) from Thingiverse ,I removed the Pi cam 2.0 lens
+
 
 
 
