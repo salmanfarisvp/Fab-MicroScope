@@ -78,8 +78,9 @@ and attached the camera sensor in the other end, this will help to increase the 
 
 ![image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/reverse002.jpg)
 
+Next I added extended camera module in the microscope base part .
 
-
+![Image]()
 
 
 
