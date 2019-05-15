@@ -62,25 +62,29 @@ The OpenFelxure is utilising the Pi Cam v2.0 by re-adjusting its stock lens, I t
 
 ### Using the Pi Cam 2.0 
 
-With the help of [Lens Adjustment Spanner](https://www.thingiverse.com/thing:1574661) from Thingiverse ,first I removed the Pi cam 2.0 lens 
+-With the help of [Lens Adjustment Spanner](https://www.thingiverse.com/thing:1574661) from Thingiverse ,first I removed the Pi cam 2.0 lens 
 
 ![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/lens_remover001.jpg)
 
-Removed the lens.
+- Removed the lens.
 
 ![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/pi_cam_two.jpg)
 
-After that , I attached the Camera lens to 3D printed Optics tube in reverse order .
+- After that , I attached the Camera lens to 3D printed Optics tube in reverse order .
 
 ![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/reverse001.jpg)
 
-and attached the camera sensor in the other end, this will help to increase the focal length
+- and attached the camera sensor in the other end, this will help to increase the focal length
 
 ![image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/reverse002.jpg)
 
-Next I added extended camera module in the microscope base part .
+- Next I added extended camera module in the microscope base part .
 
-![Image]()
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/camermoduleaddon.jpg)
+
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/body.jpg) 
+
+-
 
 
 
