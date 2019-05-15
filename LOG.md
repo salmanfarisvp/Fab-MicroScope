@@ -57,7 +57,7 @@ The OpenFelxure is utilising the Pi Cam v2.0 by re-adjusting its stock lens, I t
 
 - [x] Complete the Electronics Parts : Try to use Pi cam v2.0 instead of v1.0,  also need to try out with different lenses 
 - [x] Implement Computer Vision : To automate the testing we can use computer vision based on the available data.
-- [] Design Compatible Model : The current OpenFlexure Design is not that much compatible and Sophisticated, it working based on the model bend and material. So I will design a compatible,  easy maintainable design in parallel with the of the openflexure .
+- [ ] Design Compatible Model : The current OpenFlexure Design is not that much compatible and Sophisticated, it working based on the model bend and material. So I will design a compatible,  easy maintainable design in parallel with the of the openflexure .
 
 
 ### Using the Pi Cam 2.0 
