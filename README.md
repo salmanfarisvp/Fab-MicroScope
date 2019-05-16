@@ -17,4 +17,4 @@ Fab μ-Scope is cheap, open source microscope that can easily build from a Fabla
 2. Fully Fabable and Cheap cost
 3. Automatically detect diseases Using Image Processing 
 
-# LOG : [LOG.md](https://github.com/salmanfarisvp/Fab-MicroScope/blob/master/LOG.md)
+# LOG : [log.md](LOG.md)
