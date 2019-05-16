@@ -84,7 +84,15 @@ The OpenFelxure is utilising the Pi Cam v2.0 by re-adjusting its stock lens, I t
 
 ![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/body.jpg) 
 
--
+-Next mounted the LED as light source on top of the illuminiation part, 
+
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/ledlight_source.jpg)
+
+-After that Mounted it on the based model.
+
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/testing001.jpg)
+
+
 
 
 
