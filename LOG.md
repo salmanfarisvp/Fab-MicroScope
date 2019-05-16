@@ -91,6 +91,17 @@ The OpenFelxure is utilising the Pi Cam v2.0 by re-adjusting its stock lens, I t
 
 ![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/testing001.jpg)
 
+#### Testing with sample blood cells 
+
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/one.jpg)
+
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/two.jpg)
+
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/three.jpg)
+
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/four.jpg)
+
+![Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/five.jpg)
 
 
 
