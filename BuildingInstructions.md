@@ -76,5 +76,13 @@ Insert the illumination part from bottom to top .
 
 ![Final Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/testing001.jpg)
 
+## Sample Blood Cells Images 
+
+![Sample1](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/one.jpg)
+
+![Sample2](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/two.jpg)
+
+![Sample3](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/three.jpg)
+
 
 
