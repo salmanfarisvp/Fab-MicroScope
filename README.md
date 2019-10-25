@@ -67,30 +67,30 @@ we are getting the zoom by increasing the focal length between the pi cam and st
 
 #### 2.1 Remove Pi Cam lens 
 
-With the help of [Lens Adjustment Spanner] (https://www.thingiverse.com/thing:1574661) from Thingiverse ,first I removed the Pi cam 2.0 lens
+With the help of (Lens Adjustment Spanner)[https://www.thingiverse.com/thing:1574661] from Thingiverse ,first I removed the Pi cam 2.0 lens
 
-!(Lens remove)[https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/lens_remover001.jpg]
+![Lens remove](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/lens_remover001.jpg)
 
 Removed the lens , make sure that keep the bare sensor from dust . 
 
-!(bare lens)[https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/pi_cam_two.jpg]
+![bare lens](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/pi_cam_two.jpg)
 
 #### 2.2 Installing in to Optics Model
 
 After removing the lens from the sensor we need install it on the 3D printed optics part . 
 
-!(Install lens)[https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/reverse001.jpg]
+![Install lens](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/reverse001.jpg)
 
 next, attach the camera sensor in the other end, this will help to increase the focal length and we can obtain microimaging 
 
-!(install sensor)[https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/reverse002.jpg]
+![install sensor](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/reverse002.jpg)
 
 
 ### Setup Illumination 
 
 Light is very important when it comes to microscopic images, we are using 5mm LED to give the illumination for our Scope. Simply insert the 5mm LED on the 3D printed Illumination Part .
 
-!(Illumination Install)[https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/ledlight_source.jpg]
+![Illumination Install](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/ledlight_source.jpg)
 
 
 ### Assembling Together 
