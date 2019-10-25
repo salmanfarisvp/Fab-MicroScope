@@ -13,7 +13,7 @@ Fab μ-Scope is cheap, open source microscope that can easily build from a Fabla
 
 ## Goals
 
-1. Build Fabable Cheapest Open-Source Microscope that can perform the blood test to find out common diseases 
+1. Build Open-Source Microscope that can perform the blood test to find out common diseases 
 2. Fully Fabable and Cheap cost
 3. Automatically detect diseases Using Image Processing 
 
