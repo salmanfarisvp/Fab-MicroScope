@@ -36,17 +36,17 @@ With the help of (Lens Adjustment Spanner)[https://www.thingiverse.com/thing:157
 
 ![Lens remove](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/lens_remover001.jpg)
 
-Removed the lens , make sure that keep the bare sensor from dust . 
+- Removed the lens , make sure that keep the bare sensor from dust . 
 
 ![bare lens](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/pi_cam_two.jpg)
 
 #### 2.2 Installing in to Optics Model
 
-After removing the lens from the sensor we need install it on the 3D printed optics part . 
+- After removing the lens from the sensor we need install it on the 3D printed optics part . 
 
 ![Install lens](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/reverse001.jpg)
 
-next, attach the camera sensor in the other end, this will help to increase the focal length and we can obtain microimaging 
+- next, attach the camera sensor in the other end, this will help to increase the focal length and we can obtain microimaging 
 
 ![install sensor](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/reverse002.jpg)
 
@@ -66,7 +66,7 @@ Add the extended camera module on the base part from the bottom .
 
 ![Adding camera module](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/camermoduleaddon.jpg)
 
-carefully insert the camera module from bottom to top,
+- carefully insert the camera module from bottom to top,
 
 ![Insert camera module](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/body.jpg)
 
