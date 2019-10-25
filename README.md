@@ -90,7 +90,7 @@ next, attach the camera sensor in the other end, this will help to increase the 
 
 Light is very important when it comes to microscopic images, we are using 5mm LED to give the illumination for our Scope. Simply insert the 5mm LED on the 3D printed Illumination Part .
 
-![Illumination Install](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/ledlight_source.jpg)
+![Illumination Install](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/ledlight_source-small.jpg)
 
 
 ### Assembling Together 
