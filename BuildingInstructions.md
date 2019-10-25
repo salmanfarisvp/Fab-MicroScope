@@ -60,3 +60,21 @@ Light is very important when it comes to microscopic images, we are using 5mm LE
 
 ### Step 4 : Assembling Together  
 
+#### Setp 4.1 Adding Camera module on Base Part 
+
+Add the extended camera module on the base part from the bottom . 
+
+![Adding camera module](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/camermoduleaddon.jpg)
+
+carefully insert the camera module from bottom to top,
+
+![Insert camera module](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/body.jpg)
+
+#### Step 4.2 Adding the Illumination on Base Part
+
+Insert the illumination part from bottom to top . 
+
+![Final Image](https://raw.githubusercontent.com/salmanfarisvp/Fab-MicroScope/master/res/img/testing001.jpg)
+
+
+
