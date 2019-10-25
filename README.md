@@ -17,4 +17,36 @@ Fab μ-Scope is cheap, open source microscope that can easily build from a Fabla
 2. Fully Fabable and Cheap cost
 3. Automatically detect diseases Using Image Processing 
 
+## Required Matrials 
+
+#### Hardware 
+
+1. Raspberry Pi 2/3/4
+2. Pi cam v2.0/later
+3. OpenFelxure Scope Base
+4. M3 Screws and Nuts
+
+#### Software 
+
+1. Raspbian OS 
+2. SD card 8GB+
+3. OpenCV
+
+
+## Building Instructions 
+
+
+### Step 1 : 3D Print the Microscope Base 
+
+I met a team from China during the GOSH -Open Hardware Summit 2018, they built an open source microscope as part of there PhD project, paper in [Review of Scientific Instruments](https://aip.scitation.org/doi/10.1063/1.4941068) . also saw some amazing microscope from the internet, but most of them lack of documentation.
+
+Instead of building the microscope from scratch, I was planning to try out and implement the best one out there and modify it’s and make them better by utilizing fablab and release a newer version.
+
+For the base I choosed [OpenFelxure Model](https://github.com/rwb27/openflexure_microscope) , (The OpenFlexure Microscope is a 3D printable microscope, including a precise mechanical stage to move the sample and focus the optics. There are many different options for the optics, ranging from a webcam lens to a 100x, oil immersion objective.) 
+
+#### 1.1 Download the Design files and Print without Support
+
+
+
+
 
