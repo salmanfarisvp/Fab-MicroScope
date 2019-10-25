@@ -34,7 +34,7 @@ Fab μ-Scope is cheap, open source microscope that can easily build from a Fabla
 
 <hr>
 
-<h2><a href="https://github.com/salmanfarisvp/Fab-MicroScope/blob/master/BuildingInstructions.md">Building Instructions</h2>
+<h2> <a href="https://github.com/salmanfarisvp/Fab-MicroScope/blob/master/BuildingInstructions.md">Building Instructions </h2>
 
 
 
